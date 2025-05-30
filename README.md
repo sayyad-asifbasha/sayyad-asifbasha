@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects.<br><br>🌱 I’m currently learning App Development (Flutter)<br><br>👨‍💻 Life Hack: Stay curious, keep learning 👨‍💻.<br><br>⚡ Fun fact: I think 'syntax error' is my coding spirit animal!<br><br>📄 Know more about my professional experience <a href="https://portfolio-one-nu-3s680s54uj.vercel.app/">here</a>.
+🔭 I’m currently working on projects.<br><br>🌱 I’m currently learning App Development (Flutter)<br><br>👨‍💻 Life Hack: Stay curious, keep learning 👨‍💻.<br><br>⚡ Fun fact: I think 'syntax error' is my coding spirit animal!<br><br>📄 Know more about my professional experience <a href="https://portfolio-one-nu-3s680s54uj.vercel.app/"  target="_blank">here</a>.
 
 
 ## 🌐 Socials:
